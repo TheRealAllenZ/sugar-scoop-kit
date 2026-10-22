@@ -1,7 +1,7 @@
 # Sugar Scoop Kit — free lead magnet by Ethical AI
 
 A free "Insider Track" kit from Ethical AI: tell an AI what you want found, and the kit walks you through the hunt.
-Live page: https://ethicalai.me/sugar · Contact: info@ethicalai.me
+Live page: https://ethicalai.me/sugar · Contact: hello@ethicalai.me
 
 ## File map
 | Path | What it is |
